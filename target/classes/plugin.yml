@@ -1,0 +1,10 @@
+name: h3Fly
+version: '1.0'
+main: br.com.agatreix.h3fly.Main
+softdepend: [Vault]
+commands:
+  fly:
+    aliases: [voar]
+    description: "Faz com que você ganhe o poder de voar, memso no modo sobrevivencia."
+
+

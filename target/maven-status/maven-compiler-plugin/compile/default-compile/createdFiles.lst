@@ -1,0 +1,7 @@
+br\com\agatreix\h3fly\events\CancelFallDamage.class
+br\com\agatreix\h3fly\commands\FlyCommand.class
+br\com\agatreix\h3fly\utils\NumberFormatUtil.class
+br\com\agatreix\h3fly\Main.class
+br\com\agatreix\h3fly\Messages.class
+br\com\agatreix\h3fly\PlayerData.class
+br\com\agatreix\h3fly\events\MenuEvents.class

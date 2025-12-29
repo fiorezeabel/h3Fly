@@ -1,0 +1,18 @@
+WorldsAllowed:
+  - "plots"
+
+Permissions:
+  fly: fly.use
+
+Config:
+  price: 10000.00
+
+Messages:
+  Fly:
+    Prefix: "&l&6FLY &8>>"
+    Enable: "&eVocê ativou o modo de &avoo."
+    Disable: "&eVocê desativou o modo de &cvoo."
+    noPermission: "&cSem permissão."
+    blockedWorld: "&cVocê não pode voar aqui."
+    buy: "&eVocê comprou o &apoder de voo"
+
